@@ -4,8 +4,8 @@ package domsnapshot
 
 import (
 	json "encoding/json"
-	dom "github.com/chromedp/cdproto/dom"
-	domdebugger "github.com/chromedp/cdproto/domdebugger"
+	dom "github.com/jbegley1995/cdproto/dom"
+	domdebugger "github.com/jbegley1995/cdproto/domdebugger"
 	easyjson "github.com/mailru/easyjson"
 	jlexer "github.com/mailru/easyjson/jlexer"
 	jwriter "github.com/mailru/easyjson/jwriter"

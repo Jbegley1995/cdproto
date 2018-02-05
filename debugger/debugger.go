@@ -13,8 +13,8 @@ package debugger
 import (
 	"context"
 
-	"github.com/chromedp/cdproto/cdp"
-	"github.com/chromedp/cdproto/runtime"
+	"github.com/jbegley1995/cdproto/cdp"
+	"github.com/jbegley1995/cdproto/runtime"
 )
 
 // ContinueToLocationParams continues execution until specific location is

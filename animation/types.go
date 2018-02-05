@@ -5,7 +5,7 @@ package animation
 import (
 	"errors"
 
-	"github.com/chromedp/cdproto/cdp"
+	"github.com/jbegley1995/cdproto/cdp"
 	"github.com/mailru/easyjson"
 	"github.com/mailru/easyjson/jlexer"
 	"github.com/mailru/easyjson/jwriter"

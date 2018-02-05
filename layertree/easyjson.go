@@ -4,7 +4,7 @@ package layertree
 
 import (
 	json "encoding/json"
-	dom "github.com/chromedp/cdproto/dom"
+	dom "github.com/jbegley1995/cdproto/dom"
 	easyjson "github.com/mailru/easyjson"
 	jlexer "github.com/mailru/easyjson/jlexer"
 	jwriter "github.com/mailru/easyjson/jwriter"

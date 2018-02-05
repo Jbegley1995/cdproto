@@ -11,9 +11,9 @@ package emulation
 import (
 	"context"
 
-	"github.com/chromedp/cdproto/cdp"
-	"github.com/chromedp/cdproto/page"
-	"github.com/chromedp/cdproto/runtime"
+	"github.com/jbegley1995/cdproto/cdp"
+	"github.com/jbegley1995/cdproto/page"
+	"github.com/jbegley1995/cdproto/runtime"
 )
 
 // CanEmulateParams tells whether emulation is supported.

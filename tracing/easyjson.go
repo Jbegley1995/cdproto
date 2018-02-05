@@ -4,7 +4,7 @@ package tracing
 
 import (
 	json "encoding/json"
-	io "github.com/chromedp/cdproto/io"
+	io "github.com/jbegley1995/cdproto/io"
 	easyjson "github.com/mailru/easyjson"
 	jlexer "github.com/mailru/easyjson/jlexer"
 	jwriter "github.com/mailru/easyjson/jwriter"
